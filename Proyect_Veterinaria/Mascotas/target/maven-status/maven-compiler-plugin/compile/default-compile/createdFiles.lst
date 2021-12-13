@@ -1,0 +1,9 @@
+bd203719\veterinaria\controller\MascotaController.class
+bd203719\veterinaria\model\Duenio.class
+bd203719\veterinaria\controller\MedicamentoController.class
+bd203719\veterinaria\repository\MascotaRepository.class
+bd203719\veterinaria\repository\MedicamentoRepository.class
+bd203719\veterinaria\model\Mascota.class
+bd203719\veterinaria\model\Medicamento.class
+bd203719\veterinaria\controller\DuenioController.class
+bd203719\veterinaria\repository\DuenioRepository.class
